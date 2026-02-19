@@ -27,19 +27,13 @@ const projects = [
   {
     title: 'Biometric Payroll System',
     description: 'Workforce management platform handling 200+ employees with automated payroll computation, attendance tracking, leave management, and comprehensive reporting dashboards.',
-    tech: ['C#', '.NET', 'MySQL', 'WinForms'],
+    tech: ['C#', '.NET', 'MySQL', 'WinForms', 'Biometric Integration', 'Laravel', 'Javascript','Bootstrap','PHP'],
     link: null,
   },
   {
     title: 'WiFi Voucher Management System',
     description: 'Automated voucher generation and real-time monitoring system for hospital guest Wi-Fi. Includes an admin panel with usage analytics, expiry control, and batch generation.',
-    tech: ['PHP', 'MySQL', 'JavaScript', 'Bootstrap'],
-    link: null,
-  },
-  {
-    title: 'Hospital Information System Integration',
-    description: 'Integrated multiple hospital modules including patient records, billing, and pharmacy into a unified system, reducing data entry errors and improving staff workflow efficiency.',
-    tech: ['Laravel', 'Vue.js', 'MSSQL', 'REST API'],
+    tech: ['PHP', 'MySQL', 'JavaScript'],
     link: null,
   },
 ];

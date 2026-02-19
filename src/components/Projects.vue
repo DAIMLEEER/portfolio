@@ -36,6 +36,8 @@ const projects = [
     tech: ['PHP', 'MySQL', 'JavaScript'],
     link: null,
   },
+  {
+  },
 ];
 </script>
 
